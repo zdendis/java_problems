@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 public class FirstNonRepeatedCharacter {
     public static void main(String[] args) {
-        System.out.println(firstNonRepeatedCharacterFunctionalStyle("ahojnask"));
+        System.out.println(firstNonRepeatedCharacterFunctionalStyle("ahobjnasbhok"));
     }
 
     private static String firstNonRepeatedCharacterFunctionalStyle(String str) {
